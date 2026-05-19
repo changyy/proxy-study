@@ -1,6 +1,6 @@
 AdvancedHTTPServer==2.2.0
 certifi==2022.12.7
 chardet==3.0.4
-idna==2.9
+idna==3.15
 requests==2.33.0
 urllib3==2.7.0
